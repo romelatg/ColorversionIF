@@ -1,0 +1,8 @@
+C:\Users\romel\source\repos\IfColor\IfColor\bin\Debug\IfColor.exe.config
+C:\Users\romel\source\repos\IfColor\IfColor\bin\Debug\IfColor.exe
+C:\Users\romel\source\repos\IfColor\IfColor\bin\Debug\IfColor.pdb
+C:\Users\romel\source\repos\IfColor\IfColor\obj\Debug\IfColor.csproj.AssemblyReference.cache
+C:\Users\romel\source\repos\IfColor\IfColor\obj\Debug\IfColor.csproj.SuggestedBindingRedirects.cache
+C:\Users\romel\source\repos\IfColor\IfColor\obj\Debug\IfColor.csproj.CoreCompileInputs.cache
+C:\Users\romel\source\repos\IfColor\IfColor\obj\Debug\IfColor.exe
+C:\Users\romel\source\repos\IfColor\IfColor\obj\Debug\IfColor.pdb
